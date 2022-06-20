@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PPoseidon007. The un-mythological god and a double agent. An agent of the law and a full stack developer in the making. I strive to make the most out of everything.
+- 👋 Hi, I’m @Tha-Orakkle. The un-mythological god and a double agent. An agent of the law and a full stack developer in the making. I strive to make the most out of everything.
 - 👀 I’m interested in becoming software engineer.
 - 🌱 I’m currently learning Frontend web development 
 - 💞️ I’m looking to collaborate on different works not confined to just frontend web development.
