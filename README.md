@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tha-Orakkle.</h1>
 <h2 align="center">01010000 01100001 01110101 01101100</h2>
 
+
+<!---
 *Currently on the path I wanna be at: the road to becoming a Software Engineer. Just like an oracle, striving to make myself one of the greatest resource.*
 
 - 👀 I’m interested in **ideas, projects: especially works on Data Structures and Algorithms**
@@ -10,11 +12,12 @@
 - 💞️ I’m looking to **collaborate on differnt works and building my portfolio**
  
 - 📫 How to reach me **adegbiranayinoluwa.paul@yahoo.com**
+--->
 <!--
 ## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 -->
-
+<!--
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_peezie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -35,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tha-Orakkle&" alt="Tha-Orakkle" /></p>
 
-
+--->
 
 <!---
 Tha-Orakkle/Tha-Orakkle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
